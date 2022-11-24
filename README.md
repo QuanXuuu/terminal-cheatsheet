@@ -1,4 +1,4 @@
-## _Terminal-Cheatsheet_
+## _Terminal-Cheatsheet_ :computer:
 ---
 
 ### Navigation
@@ -14,6 +14,7 @@
 - `touch`
 - `mkdir`
 - `rm `
+- `rm -rf`
 - `mv`
 - `q`
 ---
