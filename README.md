@@ -18,5 +18,9 @@
 - `q`
 ---
 
-## _Markdown_
+## _Markdown-Cheatsheet_
 
+- Headers `#`
+- Lists `-`
+- Links `[]`
+- Images `![]`
